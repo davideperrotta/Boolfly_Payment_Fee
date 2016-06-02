@@ -12,7 +12,9 @@ Add a payment with specific fee in Magento 2
 **Frontend page:**
 ![alt tag](https://github.com/mrkhoa99/Boolfly_payment_fee/blob/master/Images/Fronted%20Checkout.png)
 
-**Features:**
+###Features:
+
+*Version 1.0.2*
 
 +Add a new payment with a specific fee.<br/>
 +Add surcharge fee to new order, invoice, creditmemo totals in Admin and Front page.<br/>
