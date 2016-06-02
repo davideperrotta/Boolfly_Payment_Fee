@@ -14,7 +14,7 @@ Add a payment with specific fee in Magento 2
 
 ###Features:
 
-*Version 1.0.2*
+*-Version 1.0.2*
 
 +Add a new payment with a specific fee.<br/>
 +Add surcharge fee to new order, invoice, creditmemo totals in Admin and Front page.<br/>
