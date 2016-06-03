@@ -1,4 +1,4 @@
-# Boolfly - a payment with specific fee in Magento 2
+# A payment with specific fee in Magento 2
 Add a payment with specific fee in Magento 2
 
 **Admin config:**
